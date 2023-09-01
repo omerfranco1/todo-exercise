@@ -1,0 +1,11 @@
+{
+  "search": "Search",
+  "listHeader": "Todo list",
+  "addTodo": "Add Todo",
+  "inProgress": "In progress",
+  "completed": "Completed",
+  "save": "Save",
+  "close": "Close",
+  "titleError": "Title can't be empty",
+  "statusError": "Status can't be empty"
+}
